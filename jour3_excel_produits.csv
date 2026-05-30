@@ -1,0 +1,11 @@
+﻿ID Produit,Nom Produit,Catégorie,Prix HT,Stock,Fournisseur,Délai (j)
+PRD001,Laptop Pro,Informatique,1200,45,TechSupply,3
+PRD002,Smartphone X,Mobile,650,82,MobilePlus,2
+PRD003,Tablette Air,Informatique,450,34,TechSupply,3
+PRD004,Écouteurs BT,Audio,120,156,SoundCorp,5
+PRD005,Montre Smart,Wearable,280,67,WearTech,4
+PRD006,Clavier Meca,Périphérique,180,23,TechSupply,7
+PRD007,Souris Ergo,Périphérique,95,41,TechSupply,7
+PRD008,Webcam HD,Périphérique,110,19,VisionTech,5
+PRD009,Disque SSD 1To,Stockage,135,88,StorageMax,2
+PRD010,Hub USB-C,Accessoire,65,72,TechSupply,4
